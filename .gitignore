@@ -5,5 +5,8 @@ __pycache__/
 # Exported files
 out/*
 
+# Config
+config.ini
+
 # temp
 temp
