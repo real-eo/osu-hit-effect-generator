@@ -1,0 +1,9 @@
+# Workspace
+__pycache__/
+.vscode/
+
+# Exported files
+out/*
+
+# temp
+temp
