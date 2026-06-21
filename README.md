@@ -6,7 +6,7 @@ This is a generator which combines an effect (a wanted hit feedback) with the hi
 2. Edit the `config.ini`
 
 > [!IMPORTANT]
-> **ALL** paths in config must be set to an image before running. This will be fixed later, but too lazy to fix as of now. 
+> **ALL** paths in config must be set to an image before running. *This will be fixed later, but too lazy to fix as of now.* 
 
 ## Running
 1. Run the `main.py` after setting up
