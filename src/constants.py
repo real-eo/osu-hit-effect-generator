@@ -1,10 +1,8 @@
 from pathlib import Path
 from configparser import ConfigParser
-
+from setup import PROJECT_ROOT, CONFIG_PATH
 
 # Config
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-CONFIG_PATH = PROJECT_ROOT / 'config.ini'
 config = ConfigParser()
 config.read(CONFIG_PATH)
 

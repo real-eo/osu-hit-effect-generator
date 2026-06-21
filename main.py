@@ -116,4 +116,6 @@ def generateFrames() -> None:
 
 
 if __name__ == "__main__":
+	import setup
+	
 	generateFrames()

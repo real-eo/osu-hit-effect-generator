@@ -2,11 +2,11 @@
 __pycache__/
 .vscode/
 
+# Development files
+local_backup.ini
+
 # Exported files
 out/*
 
 # Config
 config.ini
-
-# temp
-temp
